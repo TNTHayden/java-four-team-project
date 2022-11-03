@@ -5,7 +5,7 @@ public class Player {
 		// TODO Auto-generated method stub
 
 		
-		// jerod
+		// jerod has done this
 	}
 
 }
